@@ -1,6 +1,6 @@
 # 파이썬 알고리즘 인터뷰
 
-안녕하세요
+안녕하세요!!!
 
 
 ★ 정오표: https://www.onlybook.co.kr/entry/algorithm-interview-errata  
